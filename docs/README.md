@@ -10,13 +10,13 @@ Fork of the `notepack.io` with improvements:
 ## Install
 
 ```sh
-npm install @softvisio/msgpack
+npm install @c0rejs/msgpack
 ```
 
 ## Usage
 
 ```javascript
-import * as msgpack from "@softvisio/msgpack";
+import * as msgpack from "@c0rejs/msgpack";
 
 const buffer = msgpack.toMsgPack( [ new Date() ] );
 
