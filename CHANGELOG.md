@@ -1,5 +1,15 @@
 # Changelog
 
+### v3.5.3 (2025-12-10)
+
+**Other changes:**
+
+- build: migrate to c0rejs namespace (● [262c33e](https://github.com/c0rejs/msgpack/commit/262c33e), [5298afc](https://github.com/c0rejs/msgpack/commit/5298afc); 👬 zdm)
+
+- chore(metadata): update package metadata (● [2555875](https://github.com/c0rejs/msgpack/commit/2555875); 👬 zdm)
+
+Compare with the previous release: [v3.5.2](https://github.com/c0rejs/msgpack/compare/v3.5.2...v3.5.3)
+
 ### v3.5.2 (2025-10-26)
 
 **Other changes:**
