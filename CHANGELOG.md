@@ -1,5 +1,17 @@
 # Changelog
 
+### v3.5.4 (2025-12-11)
+
+**Bug fixes:**
+
+- \[PATCH] fix: update npmrc (● [364dcd0](https://github.com/c0rejs/msgpack/commit/364dcd0); 👬 zdm)
+
+**Other changes:**
+
+- build: migrate to c0rejs namespace (● [aa999d7](https://github.com/c0rejs/msgpack/commit/aa999d7); 👬 zdm)
+
+Compare with the previous release: [v3.5.3](https://github.com/c0rejs/msgpack/compare/v3.5.3...v3.5.4)
+
 ### v3.5.3 (2025-12-10)
 
 **Other changes:**
