@@ -1,5 +1,13 @@
 # Changelog
 
+### v3.5.6 (2026-01-10)
+
+**Bug fixes:**
+
+- \[PATCH] fix: use Buffer.isBuffer() (● [3ad9c7d](https://github.com/c0rejs/msgpack/commit/3ad9c7d); 👬 zdm)
+
+Compare with the previous release: [v3.5.5](https://github.com/c0rejs/msgpack/compare/v3.5.5...v3.5.6)
+
 ### v3.5.5 (2026-01-05)
 
 **Other changes:**
