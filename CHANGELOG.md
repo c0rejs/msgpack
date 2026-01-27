@@ -1,5 +1,11 @@
 # Changelog
 
+### v3.5.7 (2026-01-27)
+
+No changes since the previous release.
+
+Compare with the previous release: [v3.5.6](https://github.com/c0rejs/msgpack/compare/v3.5.6...v3.5.7)
+
 ### v3.5.6 (2026-01-10)
 
 **Bug fixes:**
