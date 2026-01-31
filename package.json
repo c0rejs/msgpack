@@ -8,14 +8,14 @@
         "msgpack",
         "notepack"
     ],
-    "homepage": "https://c0rejs.github.io/msgpack/",
+    "homepage": "https://corejslib.github.io/msgpack/",
     "bugs": {
-        "url": "https://github.com/c0rejs/msgpack/issues",
+        "url": "https://github.com/corejslib/msgpack/issues",
         "email": "root <root@softvisio.net>"
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/c0rejs/msgpack.git"
+        "url": "git+https://github.com/corejslib/msgpack.git"
     },
     "license": "ISC",
     "author": "root <root@softvisio.net>",
